@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "shamchi"
+version = "0.1.0"
+description = ""
+authors = ["mohadese-yousefi <mohadeseyusefi1997@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+motor = "2.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
